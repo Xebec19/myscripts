@@ -1,0 +1,27 @@
+{
+  "name": "myscripts",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo 'Please select a script' && npm run",
+    "string": "node randomString.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xebec19/myscripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xebec19/myscripts/issues"
+  },
+  "homepage": "https://github.com/Xebec19/myscripts#readme",
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "nanoid": "^4.0.0"
+  }
+}
